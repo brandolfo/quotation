@@ -1,0 +1,12 @@
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\bin\Debug\net5.0\Cotizacion.Application.deps.json
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\bin\Debug\net5.0\Cotizacion.Application.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\bin\Debug\net5.0\ref\Cotizacion.Application.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\bin\Debug\net5.0\Cotizacion.Application.pdb
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.csproj.AssemblyReference.cache
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.AssemblyInfoInputs.cache
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.AssemblyInfo.cs
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.csproj.CoreCompileInputs.cache
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\ref\Cotizacion.Application.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.pdb

@@ -1,0 +1,15 @@
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\bin\Debug\net5.0\Cotizacion.Data.deps.json
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\bin\Debug\net5.0\Cotizacion.Data.runtimeconfig.json
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\bin\Debug\net5.0\Cotizacion.Data.runtimeconfig.dev.json
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\bin\Debug\net5.0\Cotizacion.Data.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\bin\Debug\net5.0\ref\Cotizacion.Data.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\bin\Debug\net5.0\Cotizacion.Data.pdb
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\Cotizacion.Data.csproj.AssemblyReference.cache
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\Cotizacion.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\Cotizacion.Data.AssemblyInfoInputs.cache
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\Cotizacion.Data.AssemblyInfo.cs
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\Cotizacion.Data.csproj.CoreCompileInputs.cache
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\Cotizacion.Data.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\ref\Cotizacion.Data.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\Cotizacion.Data.pdb
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Data\obj\Debug\net5.0\Cotizacion.Data.genruntimeconfig.cache
