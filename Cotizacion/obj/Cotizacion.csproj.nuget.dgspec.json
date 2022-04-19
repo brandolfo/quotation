@@ -32,7 +32,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Brandom\\Desktop\\Dev\\Cotizacion\\Cotizacion.Data\\Cotizacion.Data.csproj": {
+                "projectPath": "C:\\Users\\Brandom\\Desktop\\Dev\\Cotizacion\\Cotizacion.Data\\Cotizacion.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -44,6 +48,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

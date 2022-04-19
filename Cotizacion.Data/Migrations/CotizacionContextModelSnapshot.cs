@@ -28,37 +28,12 @@ namespace Cotizacion.Data.Migrations
                     b.Property<string>("Code")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<Guid?>("QuotationId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<float>("QuotationinUSD")
+                        .HasColumnType("real");
 
                     b.HasKey("CoinId");
 
-                    b.HasIndex("QuotationId");
-
                     b.ToTable("Coins");
-                });
-
-            modelBuilder.Entity("Cotizacion.Data.Model.Quotation", b =>
-                {
-                    b.Property<Guid>("QuotationId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<float>("Buy")
-                        .HasColumnType("real");
-
-                    b.HasKey("QuotationId");
-
-                    b.ToTable("Quotations");
-                });
-
-            modelBuilder.Entity("Cotizacion.Data.Model.Coin", b =>
-                {
-                    b.HasOne("Cotizacion.Data.Model.Quotation", "Quotation")
-                        .WithMany()
-                        .HasForeignKey("QuotationId");
-
-                    b.Navigation("Quotation");
                 });
 #pragma warning restore 612, 618
         }

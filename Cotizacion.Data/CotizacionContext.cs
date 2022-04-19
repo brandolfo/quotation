@@ -15,14 +15,12 @@ namespace Cotizacion.Data
 
 		}
 		public DbSet<Coin> Coins { get; set; }
-		public DbSet<Quotation> Quotations { get; set; }
 
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			base.OnModelCreating(modelBuilder);
 
 			modelBuilder.Entity<Coin>();
-			modelBuilder.Entity<Quotation>();
 		}
 	}
 }

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cotizacion.Application.Interfaces
+namespace Cotizacion.Application.DTO
 {
-	public interface IQuotationService
+	public class quotes
 	{
-		Task AddQuotation(int number);
+		public Dictionary<string, float> Quotes { get; set; }
 	}
 }

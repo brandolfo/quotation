@@ -6,6 +6,6 @@ namespace Cotizacion.Data.Model
 	{
 		public Guid CoinId { get; set; }
 		public string Code { get; set; }
-		public Quotation Quotation { get; set; }
+		public float QuotationinUSD { get; set; }
 	}
 }

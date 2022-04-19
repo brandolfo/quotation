@@ -1,3 +1,5 @@
+using Cotizacion.Application.Implementations;
+using Cotizacion.Application.Interfaces;
 using Cotizacion.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -29,6 +31,8 @@ namespace Cotizacion
 			});
 			services.AddDbContext<CotizacionContext>(options =>
 				options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+			services.AddScoped<ICoinService, CoinService>();
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

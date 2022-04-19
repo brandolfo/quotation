@@ -10,3 +10,6 @@ C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\
 C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.dll
 C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\ref\Cotizacion.Application.dll
 C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.pdb
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\bin\Debug\net5.0\Cotizacion.Data.dll
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\bin\Debug\net5.0\Cotizacion.Data.pdb
+C:\Users\Brandom\Desktop\Dev\Cotizacion\Cotizacion.Application\obj\Debug\net5.0\Cotizacion.Application.csproj.CopyComplete
