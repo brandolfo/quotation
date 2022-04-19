@@ -20,6 +20,12 @@ namespace Cotizacion.Application.Implementations
 		{
 			_context = context;
 		}
+
+		public async Task<List<Coin>> GetCoins()
+		{
+			var allCoins = await _context.Coins.ToListAsync();
+			return allCoins;
+		}
 		public async Task FirstLoad()
 		{
 			var client = new HttpClient();
